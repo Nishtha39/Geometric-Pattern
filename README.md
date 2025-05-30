@@ -1,2 +1,2 @@
 # Geometric-Pattern
-This pattern has been created through p5.js
+This pattern has been created using p5.js, a JavaScript library
